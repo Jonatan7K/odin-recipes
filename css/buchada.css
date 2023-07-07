@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'xilo';
+    src: url('../xilosa_.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+.titulo{
+    box-shadow: 20px 0px 0px black;
+    background-color: rgba(0, 0, 0, 0.923);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    font-family: 'xilo';
+    font-size: 60px;
+    text-align: center;
+    font-weight: 600;
+
+}
+.pai{
+    text-align: center;
+}
+.cetv{
+    border-radius: 100%;
+    border: 4px solid rgb(246, 246, 246);
+    box-shadow: 10px 0px 4px;
+}
+.des{
+    margin: 0 100px 0 100px;
+    padding: 10px;
+    border-radius: 0px;
+    background-color: rgba(0, 0, 0, 0.923);
+    font-family: 'xilo';
+    font-size: 44px;
+    text-align: center;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+.des2{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'xilo';
+}
+.ing{
+    box-shadow: 20px 0px 0px black;
+    margin: 0 100px 0 100px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.923);
+    font-family: 'xilo';
+    font-size: 44px;
+    text-align: center;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+.lista1{
+    text-align: center;
+    font-family: 'xilo';
+    font-size: 25px;
+}
+.ing2{
+    text-align: center;
+}
+.prep{
+    box-shadow: 20px 0px 0px black;
+    margin: 0 100px 0 100px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.923);
+    font-family: 'xilo';
+    font-size: 44px;
+    text-align: center;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+.prep2{
+    font-family: 'xilo';
+    text-align: center;
+    font-size: 30px;
+}
